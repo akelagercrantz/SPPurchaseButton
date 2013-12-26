@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "SPPurchaseButton"
   s.version      = "0.1.0"
-  s.summary      = "SPPurchaseButton imitates the purchase button found in apples App Store, but with an added feedback mode. Works with autolayout."
+  s.summary      = "SPPurchaseButton imitates the purchase button found in App Store, but with an added feedback mode. Works with autolayout."
   s.homepage     = "https://github.com/akelagercrantz/SPPurchaseButton"
   s.license      = 'MIT'
   s.author       = { "Åke Lagercrantz" => "ake@spire.se" }
