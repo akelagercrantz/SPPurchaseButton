@@ -18,7 +18,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-Åke Lagercrantz, ake@norbyit.se
+Åke Lagercrantz, ake@spire.se
 
 ## License
 

@@ -1,0 +1,14 @@
+PODS:
+  - SPPurchaseButton (0.1.0)
+
+DEPENDENCIES:
+  - SPPurchaseButton (from `../SPPurchaseButton.podspec`)
+
+EXTERNAL SOURCES:
+  SPPurchaseButton:
+    :path: ../SPPurchaseButton.podspec
+
+SPEC CHECKSUMS:
+  SPPurchaseButton: 73178ee4e4f712a5919f6eb1578c268019779853
+
+COCOAPODS: 0.27.1

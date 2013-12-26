@@ -1,7 +1,1 @@
 pod "SPPurchaseButton", :path => "../SPPurchaseButton.podspec"
-
-target "Demo" do
-end
-
-target "DemoTests" do
-end

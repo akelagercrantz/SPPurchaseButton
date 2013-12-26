@@ -1,0 +1,28 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define blueColor [UIColor colorWithRed:(0/255.0) green:(122/255.0) blue:(255/255.0) alpha:1.0]
+#define lightBlueColor [UIColor colorWithRed:(50/255.0) green:(172/255.0) blue:(255/255.0) alpha:1.0]
+
+#define greenColor [UIColor colorWithRed:(0/255.0) green:(200/255.0) blue:(0/255.0) alpha:1.0]
+#define lightGreenColor [UIColor colorWithRed:(80/255.0) green:(235/255.0) blue:(80/255.0) alpha:1.0]
+
+#define orangeColor [UIColor colorWithRed:(240/255.0) green:(125/255.0) blue:(0/255.0) alpha:1.0]
+#define lightOrangeColor [UIColor colorWithRed:(255/255.0) green:(160/255.0) blue:(40/255.0) alpha:1.0]
+
+#define redColor [UIColor colorWithRed:(200/255.0) green:(0/255.0) blue:(0/255.0) alpha:1.0]
+#define lightRedColor [UIColor colorWithRed:(235/255.0) green:(80/255.0) blue:(80/255.0) alpha:1.0]
